@@ -14,7 +14,6 @@ How do I create an assignment?
 
 > - Go to [GitHub Classroom](https://classroom.github.com/) to create an assignment
 > - Select either an individual or group assignment (most assignments are for individuals)
-> - Make sure repositories are set to **private** (so trainees cannot see other submissions)
 > - Do **NOT** give admin permissions to trainees for the assignment
 > - (Optional) You can provide starter code for your assignment from any exisitng GitHub repository
 
